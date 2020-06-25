@@ -89,7 +89,7 @@ footer{
 }
 @media screen and (max-width: 1024px){
     .formContainer{
-       max-width: 70%;
+       max-width: 40%;
        float: none;
        margin: auto;
     }    
@@ -101,9 +101,9 @@ footer{
         display: block;
     }
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
     .formContainer{
-       max-width: 100%;
+       max-width: 80%;
     }    
     .description{
         max-width: 100%;
